@@ -4,4 +4,5 @@ An AI powered platform for quickly achieving transformation from academic assets
 # Run
 To run the program, simply execute the following codes on workbuddy:
 
-cd D:\workbuddy\project\waic_demo && streamlit run app_demo.py
+git clone https://github.com/zcheng19/IntelliLink.git
+cd waic_demo && streamlit run app_demo.py
